@@ -1,0 +1,12 @@
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 16px;
+  color: #333;
+  background-color: #66bd89; }
+  body div {
+    width: 100px; }
+  body span {
+    display: inline-block; }
+  body div {
+    position: fixe;
+    bottom: 100px; }

@@ -1,0 +1,21 @@
+{
+  "name": "glup_demo",
+  "version": "1.0.0",
+  "description": "gulp demo",
+  "main": "index.js",
+  "git repository": "https://github.com/KeepGoDerek/gulp_demo.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "demo"
+  ],
+  "author": "Derek_j",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-sass": "^3.1.0"
+  }
+}
